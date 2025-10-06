@@ -77,7 +77,6 @@ To run the project locally:
 <img width="1900" height="863" alt="Screenshot 2025-09-17 113933" src="https://github.com/user-attachments/assets/c7e12a99-29a8-431f-89b6-3dd34b6335f9" />
 
 
-
 ---
 
 ##  Contributing
