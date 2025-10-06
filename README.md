@@ -65,19 +65,12 @@ To run the project locally:
 ---
 
 ## 📸 Preview
-
-<img width="1884" height="860" alt="Screenshot 2025-09-17 113533" src="https://github.com/user-attachments/assets/fd41928b-d32c-4f7e-81a6-40848ed2b00f" />
-<img width="1899" height="866" alt="Screenshot 2025-09-17 113544" src="https://github.com/user-attachments/assets/c2f99538-9356-4e9d-8169-78ccae765274" />
-<img width="1920" height="1032" alt="Screenshot 2025-09-17 113601" src="https://github.com/user-attachments/assets/3e8c4a4a-ec61-41d7-ba7c-b5573249f2b8" />
-<img width="1894" height="861" alt="Screenshot 2025-09-17 114222" src="https://github.com/user-attachments/assets/fc9c62c4-c1cf-4de1-9b35-7c48cbe94120" />
-<img width="1920" height="864" alt="Screenshot 2025-09-17 114233" src="https://github.com/user-attachments/assets/82cd2877-293c-4826-951b-8345b8684c30" />
-<img width="1894" height="861" alt="Screenshot 2025-09-17 114222" src="https://github.com/user-attachments/assets/9abf0166-b4bc-41c4-9e3f-09f079f6fcca" />
-<img width="1894" height="867" alt="Screenshot 2025-09-17 113832" src="https://github.com/user-attachments/assets/3f3adff2-9dda-4d4d-ae47-4bf49a30ae1a" />
-<img width="1891" height="864" alt="Screenshot 2025-09-17 113924" src="https://github.com/user-attachments/assets/0856446a-bef4-4acb-a100-b75434c1e995" />
-<img width="1900" height="863" alt="Screenshot 2025-09-17 113933" src="https://github.com/user-attachments/assets/c7e12a99-29a8-431f-89b6-3dd34b6335f9" />
+<img width="1884" height="860" alt="Screenshot 2025-09-17 113533" src="https://github.com/user-attachments/assets/676e1d37-f861-4075-81ea-b9d481d368cc" />
+<img width="1920" height="1032" alt="Screenshot 2025-09-17 113601" src="https://github.com/user-attachments/assets/9eac82f5-6948-4651-9e7f-e6ef7ecf0937" />
 
 
 ---
+
 
 ##  Contributing
 
