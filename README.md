@@ -81,27 +81,5 @@ Steps:
 This project is licensed under the **MIT License**.
 ---
 
-<img width="1891" height="864" alt="Screenshot 2025-09-17 113924" src="https://github.com/user-attachments/assets/fda22cef-521b-4d9e-a5ee-06af308bca68" />
 
-<img width="1900" height="863" alt="Screenshot 2025-09-17 113933" src="https://github.com/user-attachments/assets/2447e7b4-128a-4fda-936e-0e610bdc4ba0" />
-
-<img width="1884" height="860" alt="Screenshot 2025-09-17 113533" src="https://github.com/user-attachments/assets/54e10860-dab8-4bfc-b594-b531549527f7" />
-
-<img width="1899" height="866" alt="Screenshot 2025-09-17 113544" src="https://github.com/user-attachments/assets/99e21c13-2583-4563-8014-27a48fc35d58" />
-
-<img width="1920" height="1032" alt="Screenshot 2025-09-17 113601" src="https://github.com/user-attachments/assets/3d92eec8-3508-445a-b7a3-c4d9ca4effea" />
-
-<img width="1412" height="838" alt="Screenshot 2025-09-17 113625" src="https://github.com/user-attachments/assets/640ef0dc-e8a2-4cc2-ab95-65e9ece546c8" />
-
-<img width="1901" height="863" alt="Screenshot 2025-09-17 113654" src="https://github.com/user-attachments/assets/a554f806-84a9-4311-aa39-1cbcaad3e9b4" />
-
-<img width="1900" height="866" alt="Screenshot 2025-09-17 113709" src="https://github.com/user-attachments/assets/fd83692a-adc6-434d-b49c-a4b147d32019" />
-
-<img width="1894" height="861" alt="Screenshot 2025-09-17 114222" src="https://github.com/user-attachments/assets/a579049b-6860-4969-9a35-7261a2184c3a" />
-
-<img width="1920" height="866" alt="Screenshot 2025-09-17 113839" src="https://github.com/user-attachments/assets/1c593820-fd66-4fbb-bca4-8cc8b4ba087e" />
-
-<img width="1894" height="867" alt="Screenshot 2025-09-17 113832" src="https://github.com/user-attachments/assets/a4c4b618-b7f1-43b0-b356-d17a6d8ebc26" />
-
-<img width="1920" height="1032" alt="Screenshot 2025-09-17 113907" src="https://github.com/user-attachments/assets/d55efc17-e118-4b0b-9e41-c226f676f552" />
 
